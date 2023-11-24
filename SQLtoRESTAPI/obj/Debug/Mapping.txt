@@ -1,0 +1,475 @@
+Renamed Types:
+
+[SQLtoRESTAPI]쾙.쾋 -> [SQLtoRESTAPI]떃.뗙
+{
+
+	[SQLtoRESTAPI]쾙.쾋::.cctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]쾙.쾋::get_Computer[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋::get_Application[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋::get_User[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋::get_Forms[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋::get_WebServices[0]( ) skipped:  skipping properties
+
+	쾙.쾋/쾋`1<쾙.쿸> [SQLtoRESTAPI]쾙.쾋/쾋`1<쾙.쿸> 쾙.쾋::쾙 -> 떃
+	쾙.쾋/쾋`1<쾙.쾙> [SQLtoRESTAPI]쾙.쾋/쾋`1<쾙.쾙> 쾙.쾋::쾙 -> 떃
+	쾙.쾋/쾋`1<Microsoft.VisualBasic.ApplicationServices.User> [SQLtoRESTAPI]쾙.쾋/쾋`1<Microsoft.VisualBasic.ApplicationServices.User> 쾙.쾋::쾙 -> 떃
+	쾙.쾋/쾋`1<쾙.쾋/쾙> [SQLtoRESTAPI]쾙.쾋/쾋`1<쾙.쾋/쾙> 쾙.쾋::쾙 -> 떃
+	쾙.쾋/쾋`1<쾙.쾋/쿸> [SQLtoRESTAPI]쾙.쾋/쾋`1<쾙.쾋/쿸> 쾙.쾋::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]쾙.쿃 -> [SQLtoRESTAPI]떃.뗒
+{
+
+	[SQLtoRESTAPI]쾙.쿃::get_ResourceManager[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿃::get_Culture[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿃::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿃::get_pngtree_vector_search_icon_png_image_320926[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿃::get_search_icon_152764[0]( ) skipped:  skipping properties
+
+	System.Resources.ResourceManager [SQLtoRESTAPI]System.Resources.ResourceManager 쾙.쿃::쾙 -> 떃
+	System.Globalization.CultureInfo [SQLtoRESTAPI]System.Globalization.CultureInfo 쾙.쿃::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]쾙.쿾 -> [SQLtoRESTAPI]떃.떦
+{
+	[SQLtoRESTAPI]쾙.쿾::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+
+	[SQLtoRESTAPI]쾙.쿾::.cctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]쾙.쿾::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]쾙.쿾::get_Default[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::get_IPAddress[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::set_IPAddress[1]( [mscorlib]System.String ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::get_Database[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::set_Database[1]( [mscorlib]System.String ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::get_UserName[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쿾::set_UserName[1]( [mscorlib]System.String ) skipped:  skipping properties
+
+	쾙.쿾 [SQLtoRESTAPI]쾙.쿾 쾙.쿾::쾙 -> 떃
+	System.Boolean [SQLtoRESTAPI]System.Boolean 쾙.쿾::쾙 -> 떃
+	System.Object [SQLtoRESTAPI]System.Object 쾙.쿾::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]쾙.쾋/쾙 -> [SQLtoRESTAPI]떃.뗙/떃
+{
+	[SQLtoRESTAPI]쾙.쾋/쾙::쾙[1]( !0 ) -> 떃
+	[SQLtoRESTAPI]쾙.쾋/쾙::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]쾙.쾋/쾙::떃[1]( [SQLtoRESTAPI]쾙& ) -> 떃
+
+	[SQLtoRESTAPI]쾙.쾋/쾙::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]쾙.쾋/쾙::Equals[1]( [mscorlib]System.Object ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쾙::GetHashCode[0]( ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쾙::ToString[0]( ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쾙::get_BasicAPI[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::get_DontSend[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::get_Form1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::get_SelectAPI[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::get_StructuredAPI[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::set_BasicAPI[1]( [SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::set_DontSend[1]( [SQLtoRESTAPI]SQLtoRESTAPI.DontSend ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::set_Form1[1]( [SQLtoRESTAPI]SQLtoRESTAPI.Form1 ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::set_SelectAPI[1]( [SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾙::set_StructuredAPI[1]( [SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI ) skipped:  skipping properties
+
+	System.Collections.Hashtable [SQLtoRESTAPI]System.Collections.Hashtable 쾙.쾋/쾙::쾙 -> 떃
+	SQLtoRESTAPI.BasicAPI [SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI 쾙.쾋/쾙::쾙 -> 떃
+	SQLtoRESTAPI.DontSend [SQLtoRESTAPI]SQLtoRESTAPI.DontSend 쾙.쾋/쾙::쾙 -> 떃
+	SQLtoRESTAPI.Form1 [SQLtoRESTAPI]SQLtoRESTAPI.Form1 쾙.쾋/쾙::쾙 -> 떃
+	SQLtoRESTAPI.SelectAPI [SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI 쾙.쾋/쾙::쾙 -> 떃
+	SQLtoRESTAPI.StructuredAPI [SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI 쾙.쾋/쾙::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]쾙.쾋/쾋`1 -> [SQLtoRESTAPI]떃.뗙/뗙`1
+{
+
+	[SQLtoRESTAPI]쾙.쾋/쾋`1::get_GetInstance[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]쾙.쾋/쾋`1::.ctor[0]( ) skipped:  special name
+
+	쾙 [SQLtoRESTAPI]쾙 쾙.쾋/쾋`1::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]쾙.쾙 -> [SQLtoRESTAPI]떃.떃
+{
+	[SQLtoRESTAPI]쾙.쾙::쾙[1]( [mscorlib]System.String[] ) -> 떃
+	[SQLtoRESTAPI]쾙.쾙::쾙[2]( [mscorlib]System.Object, [Microsoft.VisualBasic]Microsoft.VisualBasic.ApplicationServices.UnhandledExceptionEventArgs ) -> 떃
+
+	[SQLtoRESTAPI]쾙.쾙::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]쾙.쾙::OnCreateMainForm[0]( ) skipped:  external base class or interface
+}
+
+[SQLtoRESTAPI]쾙.쿸 -> [SQLtoRESTAPI]떃.떅
+{
+
+	[SQLtoRESTAPI]쾙.쿸::.ctor[0]( ) skipped:  special name
+}
+
+[SQLtoRESTAPI]쾙.쾕 -> [SQLtoRESTAPI]떃.뗑
+{
+
+	[SQLtoRESTAPI]쾙.쾕::get_Settings[0]( ) skipped:  skipping properties
+}
+
+[SQLtoRESTAPI]쾙.쾋/쿸 -> [SQLtoRESTAPI]떃.뗙/떅
+{
+	[SQLtoRESTAPI]쾙.쾋/쿸::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]쾙.쾋/쿸::쾙[1]( !0 ) -> 떃
+	[SQLtoRESTAPI]쾙.쾋/쿸::쾙[1]( [SQLtoRESTAPI]쾙& ) -> 떃
+
+	[SQLtoRESTAPI]쾙.쾋/쿸::Equals[1]( [mscorlib]System.Object ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쿸::GetHashCode[0]( ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쿸::ToString[0]( ) skipped:  external base class or interface
+	[SQLtoRESTAPI]쾙.쾋/쿸::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI skipped:  KeepPublicApi option in configuration
+{
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쾙[1]( [mscorlib]System.String ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쿸[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떅
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쾋[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗙
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쾙[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.ItemCheckEventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::쿃[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗒
+
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtIPAddress[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtIPAddress[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_MetroLabel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_MetroLabel1[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_lblConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_lblConnection[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_Panel4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_Panel4[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_Panel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_Panel1[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_MetroLabel4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_MetroLabel4[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtPassword[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtPassword[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_MetroLabel3[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_MetroLabel3[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtUserName[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtUserName[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_MetroLabel2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_MetroLabel2[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtDatabase[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtDatabase[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_Panel2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_Panel2[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_SplitContainer1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_SplitContainer1[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_chkProcedures[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_chkProcedures[1]( [System.Windows.Forms]System.Windows.Forms.CheckedListBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_SplitContainer2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_SplitContainer2[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtResult[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtResult[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_txtResultMethod[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_txtResultMethod[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_Panel5[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_Panel5[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_btnGenerateCode[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_btnGenerateCode[1]( [MetroFramework]MetroFramework.Controls.MetroButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_rdoPost[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_rdoPost[1]( [MetroFramework]MetroFramework.Controls.MetroRadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_rdoGet[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_rdoGet[1]( [MetroFramework]MetroFramework.Controls.MetroRadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_btnTestConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_btnTestConnection[1]( [MetroFramework]MetroFramework.Controls.MetroButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_ErrorProvider1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_ErrorProvider1[1]( [System.Windows.Forms]System.Windows.Forms.ErrorProvider ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_lblClear[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_lblClear[1]( [MetroFramework]MetroFramework.Controls.MetroLink ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::get_lblSelectedProcedures[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::set_lblSelectedProcedures[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::getProcedureStructure[2]( [mscorlib]System.String, [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::FetchProcedureList[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::ServerConnectionDB[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.BasicAPI::ServerConnection[0]( ) skipped:  KeepPublicApi option in configuration
+
+	System.ComponentModel.IContainer [SQLtoRESTAPI]System.ComponentModel.IContainer SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.BasicAPI::쾋 -> 뗙
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쾋 -> 뗙
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.BasicAPI::쿃 -> 뗒
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쿃 -> 뗒
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.BasicAPI::쾋 -> 뗙
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Windows.Forms.CheckedListBox [SQLtoRESTAPI]System.Windows.Forms.CheckedListBox SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쿾 -> 떦
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.BasicAPI::쾕 -> 뗑
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.BasicAPI::쿃 -> 뗒
+	MetroFramework.Controls.MetroButton [SQLtoRESTAPI]MetroFramework.Controls.MetroButton SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroRadioButton [SQLtoRESTAPI]MetroFramework.Controls.MetroRadioButton SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroRadioButton [SQLtoRESTAPI]MetroFramework.Controls.MetroRadioButton SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroButton [SQLtoRESTAPI]MetroFramework.Controls.MetroButton SQLtoRESTAPI.BasicAPI::쿸 -> 떅
+	System.Windows.Forms.ErrorProvider [SQLtoRESTAPI]System.Windows.Forms.ErrorProvider SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLink [SQLtoRESTAPI]MetroFramework.Controls.MetroLink SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.BasicAPI::쿾 -> 떦
+	System.Data.SqlClient.SqlConnection [SQLtoRESTAPI]System.Data.SqlClient.SqlConnection SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+	System.Int32 [SQLtoRESTAPI]System.Int32 SQLtoRESTAPI.BasicAPI::쾙 -> 떃
+
+	System.String [SQLtoRESTAPI]System.String SQLtoRESTAPI.BasicAPI::strConnection skipped:  KeepPublicApi option in configuration
+}
+
+[SQLtoRESTAPI]SQLtoRESTAPI.DontSend skipped:  KeepPublicApi option in configuration
+{
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::get_MetroLabel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::set_MetroLabel1[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::get_MetroLabel2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.DontSend::set_MetroLabel2[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+
+	System.ComponentModel.IContainer [SQLtoRESTAPI]System.ComponentModel.IContainer SQLtoRESTAPI.DontSend::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.DontSend::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.DontSend::쿸 -> 떅
+}
+
+[SQLtoRESTAPI]SQLtoRESTAPI.Form1 skipped:  KeepPublicApi option in configuration
+{
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::쾙[1]( [mscorlib]System.String ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::쿸[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떅
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::쾙[0]( ) -> 떃
+
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::getProcedureStructure[1]( [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::FetchProcedureList[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::ServerConnectionDB[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::ServerConnection[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_btnGenerate[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_btnGenerate[1]( [System.Windows.Forms]System.Windows.Forms.Button ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtResult[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtResult[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtIPAddress[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtIPAddress[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_Label2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_Label2[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtDatabase[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtDatabase[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_Label3[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_Label3[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtUserName[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtUserName[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_Label4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_Label4[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtPassword[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtPassword[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_Label5[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_Label5[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_chkProcedures[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_chkProcedures[1]( [System.Windows.Forms]System.Windows.Forms.CheckedListBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_btnTestConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_btnTestConnection[1]( [System.Windows.Forms]System.Windows.Forms.Button ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_lblConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_lblConnection[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_rdoGET[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_rdoGET[1]( [System.Windows.Forms]System.Windows.Forms.RadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_rdoPOST[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_rdoPOST[1]( [System.Windows.Forms]System.Windows.Forms.RadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::get_txtResultMethod[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.Form1::set_txtResultMethod[1]( [System.Windows.Forms]System.Windows.Forms.TextBox ) skipped:  skipping properties
+
+	System.Data.SqlClient.SqlConnection [SQLtoRESTAPI]System.Data.SqlClient.SqlConnection SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.ComponentModel.IContainer [SQLtoRESTAPI]System.ComponentModel.IContainer SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.Button [SQLtoRESTAPI]System.Windows.Forms.Button SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쿸 -> 떅
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쾋 -> 뗙
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.Form1::쿸 -> 떅
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쿃 -> 뗒
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.Form1::쾋 -> 뗙
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쿾 -> 떦
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.Form1::쿃 -> 뗒
+	System.Windows.Forms.CheckedListBox [SQLtoRESTAPI]System.Windows.Forms.CheckedListBox SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.Button [SQLtoRESTAPI]System.Windows.Forms.Button SQLtoRESTAPI.Form1::쿸 -> 떅
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.Form1::쿾 -> 떦
+	System.Windows.Forms.RadioButton [SQLtoRESTAPI]System.Windows.Forms.RadioButton SQLtoRESTAPI.Form1::쾙 -> 떃
+	System.Windows.Forms.RadioButton [SQLtoRESTAPI]System.Windows.Forms.RadioButton SQLtoRESTAPI.Form1::쿸 -> 떅
+	System.Windows.Forms.TextBox [SQLtoRESTAPI]System.Windows.Forms.TextBox SQLtoRESTAPI.Form1::쾕 -> 뗑
+
+	System.String [SQLtoRESTAPI]System.String SQLtoRESTAPI.Form1::strConnection skipped:  KeepPublicApi option in configuration
+}
+
+[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI skipped:  KeepPublicApi option in configuration
+{
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쿸[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떅
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쾋[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗙
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쿃[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗒
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::쿾[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떦
+
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::get_MetroTile1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::set_MetroTile1[1]( [MetroFramework]MetroFramework.Controls.MetroTile ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::get_MetroTile2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::set_MetroTile2[1]( [MetroFramework]MetroFramework.Controls.MetroTile ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::get_MetroLabel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::set_MetroLabel1[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::get_lblCompanyName[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.SelectAPI::set_lblCompanyName[1]( [MetroFramework]MetroFramework.Controls.MetroLink ) skipped:  skipping properties
+
+	System.ComponentModel.IContainer [SQLtoRESTAPI]System.ComponentModel.IContainer SQLtoRESTAPI.SelectAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroTile [SQLtoRESTAPI]MetroFramework.Controls.MetroTile SQLtoRESTAPI.SelectAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroTile [SQLtoRESTAPI]MetroFramework.Controls.MetroTile SQLtoRESTAPI.SelectAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.SelectAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLink [SQLtoRESTAPI]MetroFramework.Controls.MetroLink SQLtoRESTAPI.SelectAPI::쾙 -> 떃
+}
+
+[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI skipped:  KeepPublicApi option in configuration
+{
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾙[0]( ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾙[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쿸[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떅
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾋[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗙
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾙[1]( [mscorlib]System.String ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾙[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.ItemCheckEventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쿃[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗒
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾙[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyEventArgs ) -> 떃
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쿾[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떦
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾕[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗑
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::퀀[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 땲
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾯[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 떿
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쾷[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 뗜
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::쿸[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyEventArgs ) -> 떅
+
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::.ctor[0]( ) skipped:  special name
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_btnTestConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_btnTestConnection[1]( [MetroFramework]MetroFramework.Controls.MetroButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_MetroLabel4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_MetroLabel4[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtPassword[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtPassword[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_MetroLabel3[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_MetroLabel3[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtUserName[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtUserName[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_MetroLabel2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_MetroLabel2[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtDatabase[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtDatabase[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtIPAddress[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtIPAddress[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_MetroLabel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_MetroLabel1[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_SplitContainer2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_SplitContainer2[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_SplitContainer3[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_SplitContainer3[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_SplitContainer4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_SplitContainer4[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_btnGenerateCode[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_btnGenerateCode[1]( [MetroFramework]MetroFramework.Controls.MetroButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_rdoPost[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_rdoPost[1]( [MetroFramework]MetroFramework.Controls.MetroRadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_rdoGet[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_rdoGet[1]( [MetroFramework]MetroFramework.Controls.MetroRadioButton ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_Panel5[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_Panel5[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_lblConnection[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_lblConnection[1]( [System.Windows.Forms]System.Windows.Forms.Label ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_SplitContainer1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_SplitContainer1[1]( [System.Windows.Forms]System.Windows.Forms.SplitContainer ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_chkProcedures[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_chkProcedures[1]( [System.Windows.Forms]System.Windows.Forms.CheckedListBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_Panel4[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_Panel4[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_Panel2[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_Panel2[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_Panel1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_Panel1[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtStructureAndValidator[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtStructureAndValidator[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtBusinessLayer[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtBusinessLayer[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtDataLayer[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtDataLayer[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtPresentationLayer[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtPresentationLayer[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_ErrorProvider1[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_ErrorProvider1[1]( [System.Windows.Forms]System.Windows.Forms.ErrorProvider ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_lblSelectedProcedures[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_lblSelectedProcedures[1]( [MetroFramework]MetroFramework.Controls.MetroLabel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_lblClear[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_lblClear[1]( [MetroFramework]MetroFramework.Controls.MetroLink ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_Panel3[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_Panel3[1]( [System.Windows.Forms]System.Windows.Forms.Panel ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::get_txtSearch[0]( ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::set_txtSearch[1]( [MetroFramework]MetroFramework.Controls.MetroTextBox ) skipped:  skipping properties
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::TestConnection[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::FetchProcedureList[1]( [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::ServerConnectionDB[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::ServerConnection[0]( ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::getDataLayerStructure[1]( [System.Windows.Forms]System.Windows.Forms.CheckedListBox ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::getBusinessLayerStructure[1]( [System.Windows.Forms]System.Windows.Forms.CheckedListBox ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::getBusinessLayerStructureOLD[1]( [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::getPresentationLayer[1]( [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+	[SQLtoRESTAPI]SQLtoRESTAPI.StructuredAPI::getValidationClass[1]( [mscorlib]System.String ) skipped:  KeepPublicApi option in configuration
+
+	System.ComponentModel.IContainer [SQLtoRESTAPI]System.ComponentModel.IContainer SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroButton [SQLtoRESTAPI]MetroFramework.Controls.MetroButton SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.StructuredAPI::쾋 -> 뗙
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쾋 -> 뗙
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쿃 -> 뗒
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.StructuredAPI::쿃 -> 뗒
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.StructuredAPI::쾋 -> 뗙
+	MetroFramework.Controls.MetroButton [SQLtoRESTAPI]MetroFramework.Controls.MetroButton SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	MetroFramework.Controls.MetroRadioButton [SQLtoRESTAPI]MetroFramework.Controls.MetroRadioButton SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroRadioButton [SQLtoRESTAPI]MetroFramework.Controls.MetroRadioButton SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Windows.Forms.Label [SQLtoRESTAPI]System.Windows.Forms.Label SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Windows.Forms.SplitContainer [SQLtoRESTAPI]System.Windows.Forms.SplitContainer SQLtoRESTAPI.StructuredAPI::쿃 -> 뗒
+	System.Windows.Forms.CheckedListBox [SQLtoRESTAPI]System.Windows.Forms.CheckedListBox SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.StructuredAPI::쿸 -> 떅
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.StructuredAPI::쾋 -> 뗙
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.StructuredAPI::쿃 -> 뗒
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쿾 -> 떦
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쾕 -> 뗑
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::퀀 -> 땲
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쾯 -> 떿
+	System.Windows.Forms.ErrorProvider [SQLtoRESTAPI]System.Windows.Forms.ErrorProvider SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	MetroFramework.Controls.MetroLabel [SQLtoRESTAPI]MetroFramework.Controls.MetroLabel SQLtoRESTAPI.StructuredAPI::쿾 -> 떦
+	MetroFramework.Controls.MetroLink [SQLtoRESTAPI]MetroFramework.Controls.MetroLink SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Windows.Forms.Panel [SQLtoRESTAPI]System.Windows.Forms.Panel SQLtoRESTAPI.StructuredAPI::쿾 -> 떦
+	MetroFramework.Controls.MetroTextBox [SQLtoRESTAPI]MetroFramework.Controls.MetroTextBox SQLtoRESTAPI.StructuredAPI::쾷 -> 뗜
+	System.Data.SqlClient.SqlConnection [SQLtoRESTAPI]System.Data.SqlClient.SqlConnection SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+	System.Int32 [SQLtoRESTAPI]System.Int32 SQLtoRESTAPI.StructuredAPI::쾙 -> 떃
+
+	System.String [SQLtoRESTAPI]System.String SQLtoRESTAPI.StructuredAPI::strConnection skipped:  KeepPublicApi option in configuration
+}
+
+Renamed Resources:
+
+
+Skipped Resources:
+
+SQLtoRESTAPI.BasicAPI.resources (KeepPublicApi option in configuration)
+SQLtoRESTAPI.DontSend.resources (KeepPublicApi option in configuration)
+SQLtoRESTAPI.Form1.resources (KeepPublicApi option in configuration)
+SQLtoRESTAPI.SelectAPI.resources (KeepPublicApi option in configuration)
+SQLtoRESTAPI.StructuredAPI.resources (KeepPublicApi option in configuration)
+SQLtoRESTAPI.Resources.resources (no clear new name)
